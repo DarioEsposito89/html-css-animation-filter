@@ -74,4 +74,16 @@
     transform: scale(0.5);
 }
 
+/* Esercizio 10 */
+.ex-10-icon {
+    animation: spin 1s linear infinite;
+}
+@keyframes spin {
+    0% {
+        transform: rotate(1turn);
+    }
+}
+
+
+
 
