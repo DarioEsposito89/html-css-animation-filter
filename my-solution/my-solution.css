@@ -57,10 +57,21 @@
 
 /* Esercizio 8 */
 .ex-8-img {
-    transition: 2s;
+    transition: 3s;
 }
 .ex-8-img:hover {
     filter: grayscale(.8) sepia(.6);
     border-radius: 15px;
 }
+
+/* Esercizio 9 */
+.ex-9-img {
+    transition: 3s;
+}
+.ex-9-img:hover {
+    filter: grayscale(.8) sepia(.6);
+    border-radius: 15px;
+    transform: scale(0.5);
+}
+
 
