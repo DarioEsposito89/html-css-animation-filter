@@ -47,3 +47,11 @@
     filter: grayscale(100%);
 }
 
+/* Esercizio 7 */
+.ex-7-img {
+    transition: 3s;
+}
+.ex-7-img:hover {
+    filter: grayscale(0.8) sepia(0.6);
+}
+
